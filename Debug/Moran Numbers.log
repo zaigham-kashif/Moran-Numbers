@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Source.cpp(56,6): warning C4101: 'row': unreferenced local variable
+D:\Source.cpp(57,6): warning C4101: 'col': unreferenced local variable
+  Moran Numbers.vcxproj -> D:\Program Files\Moran Numbers\Debug\Moran Numbers.exe
